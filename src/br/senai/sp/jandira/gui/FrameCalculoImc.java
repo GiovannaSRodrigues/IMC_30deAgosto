@@ -23,6 +23,7 @@ public class FrameCalculoImc {
 	public String titulo; 
 	public int largura;
 	public int altura; 
+	public String teste;
 	public Color corFundoDeTela;
 	public Font fonteDosLabels;
 	public Color corDoTextoDoBotao;
